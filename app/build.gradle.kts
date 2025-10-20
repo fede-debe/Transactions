@@ -52,7 +52,7 @@ hilt {
 
 dependencies {
     //local
-//    implementation(project(":dataloader"))
+    implementation(project(":datasyncflow"))
 
     // Core AndroidX + Kotlinx Serialization
     implementation(libs.androidx.core.ktx)
