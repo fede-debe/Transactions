@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Transactions</string>
+    <string name="app_name">Candidate</string>
+    <string name="retry">Retry</string>
+    <string name="no_transactions">No transactions</string>
+    <string name="credit">Credit</string>
+    <string name="debits">Debits</string>
+    <string name="pending">Pending</string>
+    <string name="completed">Completed</string>
+    <string name="transactions">Transactions</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+    <string name="transactions_empty_state_title">Make your first transaction to get started!</string>
+    <string name="err_no_internet">You’re offline. Check your connection and pull to refresh.</string>
+    <string name="err_timeout">The request took too long. Please pull to refresh or try again later.</string>
+    <string name="err_server">Our servers are having trouble. Please pull to refresh or try again later.</string>
+    <string name="err_client">We couldn’t process the request. Please pull to refresh or try again later.</string>
+    <string name="err_parsing">We received unexpected data. Please pull to refresh or try again later.</string>
+    <string name="err_unknown">Something went wrong. Please pull to refresh or try again later.</string>
+    <string name="server_error">Server error</string>
 </resources>
