@@ -19,13 +19,13 @@ The app handles various UI states (Loaded, Empty, Error) and supports both light
 You can view short videos demonstrating the app's functionality and cross-SDK behavior below.
 
 <p align="center">
-    <video src="https://github.com/user-attachments/assets/a5b93776-0e70-4701-9b30-eac5adb5f01c" width="350" controls></video>
-    <br>
-    **Max SDK Version**
-    <br><br>
-    <video src="https://github.com/user-attachments/assets/fe4ef289-9507-4fb8-a989-fdfa2e70a9de" width="350" controls></video>
-    <br>
-    **Min SDK Version**
+    <video src="https://github.com/user-attachments/assets/a5b93776-0e70-4701-9b30-eac5adb5f01c" width="350" controls></video>
+    <br>
+    <strong>Max SDK Version</strong>
+    <br><br>
+    <video src="https://github.com/user-attachments/assets/fe4ef289-9507-4fb8-a989-fdfa2e70a9de" width="350" controls></video>
+    <br>
+    <strong>Min SDK Version</strong>
 </p>
 
 ---
